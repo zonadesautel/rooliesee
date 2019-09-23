@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zoaghohsho.vt-its.com/sitemap.xml
